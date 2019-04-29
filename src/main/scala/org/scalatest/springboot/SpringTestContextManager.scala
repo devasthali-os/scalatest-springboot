@@ -1,7 +1,7 @@
 package org.scalatest.springboot
 
 /**
-  * Created by prayagupd
+  * author prayagupd
   * on 1/29/17.
   */
 
