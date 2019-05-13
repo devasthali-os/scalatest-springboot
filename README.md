@@ -1,7 +1,7 @@
 scalatest-springboot
 --------------------
 
-scalatest for springboot. tested against spring-boot `1.5.1.RELEASE`
+scalatest for springboot. tested against spring-boot `1.x` and `2.x`
 
 build 
 -----
@@ -55,5 +55,5 @@ class InventoryEndpointIntegrationSpecs extends FunSpec with SpringTestContextMa
 
 TODO
 ----
-- release
+- release, https://maven.apache.org/repository/guide-central-repository-upload.html
 
